@@ -1,0 +1,14 @@
+.logo{
+	background-color: #fff;
+	float: left;
+	width: 47%;
+	height: 90px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	line-height: 100%;
+	background-image:url("../images/wastePickerLogo.png");
+	background-position: left top;
+	background-repeat: no-repeat;
+	position: fixed;
+}

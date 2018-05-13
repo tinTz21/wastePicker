@@ -1,0 +1,164 @@
+.container{
+width: 98%;
+margin-left: auto;
+margin-right: auto;
+}
+
+.header{
+top: 0;
+height: 90px;
+width: 98%;
+border-width: 1px 1px 1px 1px;
+position: fixed;
+
+}
+
+
+.sidebar{
+
+}
+
+.mainbody{
+	margin-top: 103px;
+
+}
+
+.parallax {
+    min-height: 400px;
+    background: transparent;
+    text-align: center;
+}
+
+.about{
+	height: 400px;
+	background-color: #f7f7f7;
+	color: #000;
+	border: solid;
+	border-color: green;
+	border-width: 0.5px 0.5px 0.5px 0.5px;
+}
+
+.homeabout{
+	padding-right: 40px;
+	padding-left: 40px;
+	font-size: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #595757;
+
+}
+
+.h3{
+	height: 10px;
+	text-align: center;
+	font-size: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #595757;
+	padding: 5px;
+}
+
+.info{
+	padding: 200px 100px;
+	z-index: -2;
+	position: relative;
+	color: #fff;
+	font-size: 40px;
+}
+
+.callpicker{
+	height: 450px;
+	width: 100%;
+	position: relative;
+	color: #212121;
+	/*background-color: #49603f;*/
+	background-image:url("../images/background1.jpg");
+
+}
+
+.wastepicker{
+	height: 455px;
+	background-image:url("../images/background1.jpg");
+	background-attachment: fixed;
+}
+
+.pickerinstruction{
+float: left;
+height: 200px;
+padding: 20px 20px 20px 20px;
+border: 1px solid #200;
+width: 40%;
+background-color: #e5e5e5;
+margin-top: 8%;
+margin-left: 8%;
+float: clear;
+border-radius: 10px;
+border-color: green;
+
+}
+
+.callpickerbody{
+	height: 414px;
+	width: 40%;  
+    float: right;
+    padding: 20px 20px;
+    border: 1px solid #123;
+    border-radius: 5px;
+    margin-left: auto;
+    border: 1px solid #123;
+    border-radius: 10px;
+    border-color: green;
+    background-color: #e5e5e5;
+}
+
+
+
+.footer{
+	width: 100%;
+	height: 60px;
+	background-color: #a8a8a8;
+    bottom: 0px;
+    text-align: center;
+    color: #000;
+    padding: 15px 0px;
+    position: relative;
+}
+
+
+
+
+.legend{
+	background-color: #49603f;
+	color: #fff;
+	padding: 12px 0px 8px 0px;
+	text-align: center;
+	line-height: 10px;
+	margin-top: 10px;
+}
+
+.label{
+	padding: 12px 12px 12px 0px;
+	color: #212121;
+	height: 25px
+	font-size: 18px;
+}
+
+.table1{
+	width: 70%;
+	margin-top: 1%;
+	padding: 0px 0px 0px 0px;
+	margin-left: 20%;
+	position: relative;
+	text-align: center;
+	background-color: #3b3d42;
+
+}
+
+.form1{
+	text-align: center;
+}
+
+.header2{
+	float: clear;
+	margin-top: 0px;
+	text-align: center;
+	color: #fff;
+}
